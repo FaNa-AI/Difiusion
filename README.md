@@ -9,7 +9,7 @@ This project demonstrates how to generate high-quality images from text prompts 
 ## 🖼️ Example Output
 
 <p align="center">
-  <img src="images/unicorn_output.jpg" width="480" alt="Example generated image"/>
+  <img src="unicorn_output.jpg" width="480" alt="Example generated image"/>
 </p>
 
 ---
